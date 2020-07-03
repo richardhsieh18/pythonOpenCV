@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbb67d1c-b42a-494f-8949-4dc46eaf4513" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dI7Na3x4JdKj5PLEC36p4GeO42" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/0614_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.0703">
+    <configuration name="0614" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SCEopenCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0614_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0614_01/0614.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0703" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SCEopenCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0703" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0703/0703.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SCEopenCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.0703" />
+        <item itemvalue="Python.0614" />
+        <item itemvalue="Python.scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb67d1c-b42a-494f-8949-4dc46eaf4513" name="Default Changelist" comment="" />
+      <created>1592100714117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592100714117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1239" height="184" key="GridCell.Tab.0.bottom" timestamp="1593774840026">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1239" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1593774840026" />
+    <state width="1239" height="184" key="GridCell.Tab.0.center" timestamp="1593774840026">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1239" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1593774840026" />
+    <state width="1239" height="184" key="GridCell.Tab.0.left" timestamp="1593774840025">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1239" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1593774840025" />
+    <state width="1239" height="184" key="GridCell.Tab.0.right" timestamp="1593774840026">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1239" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1593774840026" />
+    <state width="1239" height="230" key="GridCell.Tab.1.bottom" timestamp="1592121100640">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1239" height="230" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1592121100640" />
+    <state width="1239" height="230" key="GridCell.Tab.1.center" timestamp="1592121100640">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1239" height="230" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1592121100640" />
+    <state width="1239" height="230" key="GridCell.Tab.1.left" timestamp="1592121100640">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1239" height="230" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1592121100640" />
+    <state width="1239" height="230" key="GridCell.Tab.1.right" timestamp="1592121100640">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1239" height="230" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1592121100640" />
+    <state x="141" y="50" key="SettingsEditor" timestamp="1592104262185">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1592104262185" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1592120845794">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="500" height="400" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1592120845794" />
+    <state x="0" y="23" width="598" height="777" key="find.popup" timestamp="1592117446591">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" width="598" height="777" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1592117446591" />
+  </component>
+</project>
