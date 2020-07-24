@@ -389,20 +389,34 @@
 import cv2
 import numpy as np
 
-lena = cv2.imread("/Users/chang/PycharmProjects/SCEopenCV/0717/lena.bmp", 0)
+lena = cv2.imread("/Users/chang/PycharmProjects/SCEopenCV/0717/lena.bmp", 0) #讀圖
 
-watermark = np.ones((lena.shape), dtype=np.uint8)
-watermark = watermark * 255
-watermark[100:200, 100:200] = 0
-watermark[120:180, 120:180] = 255
-cv2.imwrite("watermark01.bmp", watermark)
+# watermark = np.ones((lena.shape), dtype=np.uint8) #製作浮水印
+# watermark = watermark * 255
+# watermark[100:200, 100:200] = 0
+# watermark[120:180, 120:180] = 255
+# cv2.imwrite("watermark01.bmp", watermark)
 
-watermark1 = cv2.imread("/Users/chang/PycharmProjects/SCEopenCV/0719/watermark01.bmp", 0)
-w = watermark1[:, :] > 0
-watermark1[w] = 1
+watermark = cv2.imread("/Users/chang/PycharmProjects/SCEopenCV/0719/watermark01.bmp", 0)
+w = watermark[:, :] > 0  #把>0的位置紀錄起來
+watermark[w] = 1 #將255值變成1
 
 r, c = lena.shape
 t254 = np.ones((r, c), dtype=np.uint8) * 254
+
+lenaH7 = cv2.bitwise_and(lena, t254) #低位元改為0
+e = cv2.bitwise_or(lenaH7, watermark) #低位元改為0與浮水印作and
+
+cv2.imshow("lena", lena)
+cv2.imshow("e", e)
+
+t1 = np.ones((r, c), dtype=np.uint8)
+wm = cv2.bitwise_and(e, t1)
+
+ww = wm[:, :] > 0
+wm[w] = 255
+
+cv2.imshow("wm", wm)
 
 cv2.waitKey()
 cv2.destroyAllWindows()
